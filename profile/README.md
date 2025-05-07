@@ -3,7 +3,8 @@
 
 Somos una idea de negocio diseñada para ser adaptable, precisa y altamente eficaz en la mejora de procesos.
 ## 🎯 Nuestra misión
-En _atomic_**flow** trabajamos con un objetivo claro:  
+En _atomic_**flow** trabajamos con un objetivo claro:
+
 **Impulsar la productividad de cualquier tipo de negocio**, sin importar su naturaleza, tamaño o sector.
 
 Mediante un análisis objetivo de los flujos internos y externos, ayudamos a nuestros clientes a alcanzar mejoras de rendimiento cuantificables.
